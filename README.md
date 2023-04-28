@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cryptim
 - 👀 I’m interested in Andriod and ios app dev
-- 🌱 I’m currently learning flutter app dev
+- 🌱 I’m currently using react framework
 - 💞️ I’m looking to collaborate on a  verse majority of  project
 - 📫 How to reach me  on +2348101264323
 
